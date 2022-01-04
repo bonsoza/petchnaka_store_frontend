@@ -1,0 +1,35 @@
+@font-face {
+    font-family: lamoon;
+    src: url(../font/FC-Lamoon-Regular-ver-1.00.woff);
+}
+body {
+    background-color: white;
+    font-family: lamoon;
+    color: #3E8CC7;
+    font-size: 20px;
+}
+
+.card,
+.card-header,
+.form-control {
+    border-radius: 0; 
+}
+
+.card {
+    border-color: #C1EBF4;
+    border-width: 6px;
+}
+
+.card-header {
+    border-bottom: 0px;
+    background-color: #C1EBF4;
+}
+
+label {
+    color: #778899;
+    font-size: 25px;
+}
+
+.table th {
+    color: #3E8CC7;
+}
