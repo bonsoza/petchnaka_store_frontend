@@ -1,4 +1,4 @@
-# frontend
+# Petchnaka_Store
 
 ## Project setup
 ```
