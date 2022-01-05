@@ -23,6 +23,7 @@ npm run test:unit
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+```bash
 .gitignore
 README.md
 babel.config.js
@@ -103,3 +104,4 @@ src
 tests
    |-- unit
    |   |-- example.spec.js
+```
