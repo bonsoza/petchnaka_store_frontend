@@ -1,4 +1,6 @@
 # Petchnaka_Store
+## https://github.com/bonsoza/petchnaka_store_frontend.git
+## https://github.com/bonsoza/petchnaka_store_backend.git
 
 ## Project setup
 ```
